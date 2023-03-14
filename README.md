@@ -38,6 +38,9 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a>
 </div>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
+</div>
 
 ---
 
