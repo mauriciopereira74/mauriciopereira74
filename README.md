@@ -41,6 +41,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a>
 </div>
 
+---
+
 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mauriciopereira74&show_icons=true&theme=dark" />
