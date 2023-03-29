@@ -43,6 +43,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
 </div>
+
 ---
 
 <!--
