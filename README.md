@@ -57,7 +57,7 @@
 
 ---
 
-<div class='container'>
+<div class='container' align="center">
 <!-- <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mauriciopereira74&show_icons=true&theme=dark" />
 &nbsp;
 -->
