@@ -84,11 +84,11 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mauriciopereira74/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="mauriciopereira74" height="30" width="40" /></a>
+      alt="mauriciopereira74" width="40" height="40"/></a>
   <a href="https://www.instagram.com/mauriciopereira74/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="mauriciopereira74" height="30" width="40" /></a>
+      alt="mauriciopereira74" width="40" height="40"/></a>
  <a href="http://mauricio-p.com/" target="blank"><img align="center"
       src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png"
-      alt="portfolio" /></a>
+      alt="portfolio" width="40" height="40"/></a>
 </p>
