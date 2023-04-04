@@ -8,8 +8,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 * 🎓 &nbsp; Studying Software Engineer @ University of Minho:
-* 💼 &nbsp; Working as a Software Development at XPertGo.
-* 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+* 💼 &nbsp; Working as a Software Developer at XPertGo.
+* 🌱 &nbsp; Learning more about Real State and Smart Investments.
 * 📖 My portfolio -> http://mauricio-p.com/
 <!--
 * :mailbox: How to reach me: <a href="mailto:mauriciovianense@hotmail.com">
@@ -89,6 +89,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="mauriciopereira74" height="30" width="40" /></a>
  <a href="http://mauricio-p.com/" target="blank"><img align="center"
-      src="https://img.shields.io/badge/-black?style=flat-square&logo=google-chrome"
+      📖
       alt="adampithewan" height="30" width="40" /></a>
 </p>
