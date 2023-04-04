@@ -1,13 +1,20 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 <h1>
   Hey, I´m Maurício Pereira 👋
 </h1>
 
-## About me:
-### I'm a Software Engineer Student @ University of Minho:
-* :desktop_computer: Software Development
-* :mailbox: How to reach me: <a href="mailto:mauriciovianense@hotmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-      badge&logo=microsoft-outlook&logoColor=white"></a>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+* 🎓 &nbsp; Studying Software Engineer @ University of Minho:
+* 💼 &nbsp; Working as a Software Development at XPertGo.
+* 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 * 📖 My portfolio -> http://mauricio-p.com/
+<!--
+* :mailbox: How to reach me: <a href="mailto:mauriciovianense@hotmail.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-      badge&logo=microsoft-outlook&logoColor=white"></a> 
+-->
 
 ---
 
@@ -57,4 +64,15 @@
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopereira74&theme=dark&langs_count=8&layout=compact" /></div>
 </div>
+
+---
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="http://mauricio-p.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Website-www.mauricio--p.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mauriciopereira74/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maurício%20Pereira-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/mauriciopereira74/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mauriciopereira74-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mauriciovianense@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mauriciovianense@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
