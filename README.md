@@ -67,20 +67,6 @@
 
 ---
 
-<!--
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="http://mauricio-p.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Website-www.mauricio--p.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mauriciopereira74/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maurício%20Pereira-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mauriciopereira74/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mauriciopereira74-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mauriciovianense@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mauriciovianense@hotmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
--->
-
-
----
-
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
@@ -97,3 +83,15 @@
       src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png"
       alt="email"/></a>
 </p>
+
+
+<!--
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="http://mauricio-p.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Website-www.mauricio--p.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mauriciopereira74/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maurício%20Pereira-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/mauriciopereira74/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mauriciopereira74-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mauriciovianense@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mauriciovianense@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+-->
