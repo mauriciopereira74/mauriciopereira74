@@ -95,5 +95,5 @@
       alt="portfolio" width="40" height="40" /></a>
   <a href="mailto:mauriciovianense@hotmail.com"><img alt="Email" 
       src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png"
-      alt="email" width="30" height="40" /></a>
+      alt="email"/></a>
 </p>
