@@ -90,5 +90,5 @@
       alt="mauriciopereira74" height="30" width="40" /></a>
  <a href="http://mauricio-p.com/" target="blank"><img align="center"
       src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png"
-      alt="portfolio" height="30" width="40" /></a>
+      alt="portfolio" /></a>
 </p>
