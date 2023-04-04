@@ -89,6 +89,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="mauriciopereira74" height="30" width="40" /></a>
  <a href="http://mauricio-p.com/" target="blank"><img align="center"
-      src="https://img.shields.io/badge/-white?style=flat-square&logo=google-chrome"
+      src="https://img.shields.io/badge/-black?style=flat-square&logo=google-chrome"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
