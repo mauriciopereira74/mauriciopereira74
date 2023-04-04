@@ -76,6 +76,10 @@
 <a href="mailto:mauriciovianense@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mauriciovianense@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+
+---
+
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mauriciopereira74/" target="blank"><img align="center"
