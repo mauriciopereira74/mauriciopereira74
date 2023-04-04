@@ -76,3 +76,15 @@
 <a href="mailto:mauriciovianense@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mauriciovianense@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mauriciopereira74/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="mauriciopereira74" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mauriciopereira74/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="mauriciopereira74" height="30" width="40" /></a>
+ <a href="http://mauricio-p.com/" target="blank"><img align="center"
+      src="https://img.shields.io/badge/-white?style=flat-square&logo=google-chrome"
+      alt="adampithewan" height="30" width="40" /></a>
+</p>
