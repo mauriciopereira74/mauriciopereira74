@@ -7,10 +7,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-* 🎓 &nbsp; Studying Software Engineer @ University of Minho:
+* 🎓 &nbsp; Studying Software Engineer @ University of Minho.
 * 💼 &nbsp; Working as a Software Developer at XPertGo.
 * 🌱 &nbsp; Learning more about Real State and Smart Investments.
-* 📖 My portfolio -> http://mauricio-p.com/
+* 📖 &nbsp; My portfolio -> http://mauricio-p.com/
 <!--
 * :mailbox: How to reach me: <a href="mailto:mauriciovianense@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-      badge&logo=microsoft-outlook&logoColor=white"></a> 
@@ -74,4 +74,21 @@
 <a href="https://www.linkedin.com/in/mauriciopereira74/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maurício%20Pereira-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mauriciopereira74/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mauriciopereira74-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:mauriciovianense@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mauriciovianense@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+
+---
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mauriciopereira74/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="mauriciopereira74" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mauriciopereira74/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="mauriciopereira74" height="30" width="40" /></a>
+ <a href="http://mauricio-p.com/" target="blank"><img align="center"
+      src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png"
+      alt="portfolio" height="30" width="40" /></a>
 </p>
