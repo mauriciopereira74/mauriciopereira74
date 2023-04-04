@@ -67,6 +67,7 @@
 
 ---
 
+<!--
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -75,6 +76,7 @@
 <a href="https://www.instagram.com/mauriciopereira74/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mauriciopereira74-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:mauriciovianense@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mauriciovianense@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+-->
 
 
 ---
@@ -91,4 +93,6 @@
  <a href="http://mauricio-p.com/" target="blank"><img align="center"
       src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png"
       alt="portfolio" width="40" height="40" /></a>
+  <a href="mailto:mauriciovianense@hotmail.com"><img alt="Email" 
+  src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png"></a>
 </p>
