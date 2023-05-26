@@ -7,7 +7,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-* 🎓 &nbsp; Studying Software Engineer @ University of Minho.
+* 🎓 &nbsp; Studying Software Engineering @ University of Minho.
 * 💼 &nbsp; Working as a Software Developer at XPertGo.
 * 🌱 &nbsp; Learning more about Real State and Smart Investments.
 * 📖 &nbsp; My portfolio -> http://mauricio-p.com/
