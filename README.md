@@ -9,7 +9,6 @@
 
 * 🎓 &nbsp; Studying Software Engineering @ University of Minho.
 * 💼 &nbsp; Freelancer Software Developer.
-* 🌱 &nbsp; Learning more about Real State and Smart Investments.
 * 📖 &nbsp; My portfolio -> https://mauricio-p.com/
 <!--
 * :mailbox: How to reach me: <a href="mailto:mauriciovianense@hotmail.com">
