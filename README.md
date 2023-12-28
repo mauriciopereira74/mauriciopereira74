@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-      badge&logo=microsoft-outlook&logoColor=white"></a> 
 -->
 
----
 <!--
+---
 ## :hammer_and_wrench: Languages and Tools : 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
@@ -63,9 +63,8 @@
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopereira74&theme=dark&langs_count=8&layout=compact" /></div>
 </div>
--->
----
 
+---
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
@@ -83,7 +82,7 @@
       alt="email"/></a>
 </p>
 
-
+-->
 <!--
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
