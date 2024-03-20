@@ -11,23 +11,6 @@
 * 💼 &nbsp; Freelancer Software Developer.
 * 📖 &nbsp; My portfolio -> https://mauricio-p.com/
 
----
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mauriciopereira74/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="mauriciopereira74" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mauriciopereira74/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="mauriciopereira74" height="30" width="40" /></a>
- <a href="http://mauricio-p.com/" target="blank"><img align="center"
-      src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png"
-      alt="portfolio" width="40" height="40" /></a>
-  <a href="mailto:mauriciovianense@hotmail.com"><img alt="Email" 
-      src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png"
-      alt="email"/></a>
-</p>
 <!--
 * :mailbox: How to reach me: <a href="mailto:mauriciovianense@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-      badge&logo=microsoft-outlook&logoColor=white"></a> 
