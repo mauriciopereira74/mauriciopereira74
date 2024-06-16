@@ -7,8 +7,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-* 🎓 &nbsp; Studying Software Engineering @ University of Minho.
-* 💼 &nbsp; Freelancer Software Developer.
+* 🎓 &nbsp; Software Engineer @ University of Minho.
+* 💼 &nbsp; Freelancer Software Engineer.
 * 📖 &nbsp; My portfolio -> https://mauricio-p.com/
 
 <!--
