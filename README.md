@@ -4,13 +4,6 @@
 <h1>
   Hey, I´m Maurício Pereira 👋
 </h1>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-* 🎓 &nbsp; Masters in Software Engineering @ University of Minho.
-* 💼 &nbsp; Software Engineer @ Accenture.
-* 📖 &nbsp; My portfolio -> https://mauricio-p.com/
-
 <!--
 * :mailbox: How to reach me: <a href="mailto:mauriciovianense@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-      badge&logo=microsoft-outlook&logoColor=white"></a> 
